@@ -5,6 +5,11 @@ O objetivo deste projeto é criar um sistema simples para apresentar um cardápi
 
 O sistema pode ser facilmente adaptado para diferentes tipos de cardápios, sendo uma excelente solução para restaurantes, lanchonetes e outros estabelecimentos comerciais.
 
+![preview](./assets/preview1.png)
+
+![preview](./assets/preview2.png)
+
+![preview](./assets/preview3.png)
 ### Funcionalidades
 Exibição de Cardápio: Os itens do cardápio são listados de forma clara, com nome, descrição e preço.
 Estrutura Simples e Responsiva: O layout se adapta a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto desktops.
